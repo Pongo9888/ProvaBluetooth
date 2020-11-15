@@ -28,7 +28,6 @@ import java.util.ArrayList;
 import java.util.Set;
 
 public class MainActivity extends AppCompatActivity {
-    private int porcodio;
 
     private TextView status;
     private Button btnConnect;
